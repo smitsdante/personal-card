@@ -1,0 +1,40 @@
+body {
+}
+
+article {    
+    background: linear-gradient(to right, #7e0010, #af0228);
+    flex-direction: column;
+    max-width: 20rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin: auto;
+    margin-top: 100px;    
+  }
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Smooch';
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;  
+    text-align: center;
+}
+
+
+ul {
+    list-style: none;
+}
+li {
+    display: inline;    
+}
