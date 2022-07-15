@@ -8,7 +8,7 @@ article {
     padding: 2rem;
     border-radius: 1rem;
     margin: auto;
-    margin-top: 100px;    
+    margin-top: 50px;    
   }
 
 header {
@@ -34,7 +34,35 @@ p {
 
 ul {
     list-style: none;
+    
 }
 li {
     display: inline;    
 }
+
+a{
+  
+}
+
+
+.body{
+  background-image: url('https://i.postimg.cc/jSkLFBX7/background.jpg');
+  background-position: center;
+  background-size: cover;
+  color white;  
+}
+.profile{}
+.profile__container{}
+.card{}
+.card__header{}
+.card__header-img-container{}
+.card__header-img{}
+.card__body{}
+.card__body_title{}
+.card__body-keywords{}
+.card__body-presentation{}
+.card__footer{}
+.card__footer-nav-list{}
+.card__footer-nav-item{}
+.card__footer-nav-link{}
+.card__footer-nav-img{}
